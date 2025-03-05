@@ -1,6 +1,14 @@
-# My Team
+# 👥 My Team
 
 This project is built with **React**, **Vite**, and **TailwindCSS** to deliver a fast and responsive web application with a streamlined development experience.
+
+![Project Preview](https://aboutteammembers.netlify.app/public/preview.jpg)
+
+---
+
+### 🚀 **Live Demo**
+
+🔗 [View Live](https://aboutteammembers.netlify.app)
 
 ## Key Features
 
@@ -9,6 +17,8 @@ This project is built with **React**, **Vite**, and **TailwindCSS** to deliver a
 - **TailwindCSS**: A utility-first CSS framework that provides pre-configured styling for rapid UI development.
 - **Hot Module Replacement (HMR)**: Enables instant updates without full page reload during development.
 - **ESLint**: Configured for linting JavaScript/JSX files for code quality.
+
+---
 
 ## Getting Started
 
@@ -78,6 +88,8 @@ npm run lint
 yarn lint
 ```
 
+---
+
 ## Project Structure
 
 ```bash
@@ -97,6 +109,8 @@ yarn lint
 └── package.json         # Project metadata and dependencies
 ```
 
+---
+
 ## Customizing TailwindCSS
 
 TailwindCSS is already configured, but you can modify the `tailwind.config.js` file to extend or customize the theme, such as adding new colors, fonts, or spacing values.
@@ -115,12 +129,16 @@ module.exports = {
 };
 ```
 
+---
+
 ## Scripts
 
 - **`dev`**: Starts the development server with HMR.
 - **`build`**: Builds the application for production.
 - **`preview`**: Previews the production build.
 - **`lint`**: Lints your code with ESLint.
+
+---
 
 ## Technologies Used
 
@@ -130,9 +148,19 @@ module.exports = {
 - **PostCSS**: CSS tool for transforming styles with plugins like TailwindCSS.
 - **ESLint**: A tool for identifying and fixing problems in JavaScript code.
 
+---
+
 ## Learn More
 
 - [Vite Documentation](https://vitejs.dev/guide/)
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [TailwindCSS Documentation](https://tailwindcss.com/docs)
 - [ESLint Documentation](https://eslint.org/docs/user-guide/getting-started)
+
+---
+
+## 📞 **Contact**
+
+If you have any questions or feedback, feel free to reach out:  
+📧 Email: [pubgn9642@gmail.com](mailto:pubgn9642@gmail.com)  
+🔗 Website: [yaxyobekk.uz](https://yaxyobekk.uz/en)
