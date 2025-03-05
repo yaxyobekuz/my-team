@@ -2,7 +2,7 @@
 
 This project is built with **React**, **Vite**, and **TailwindCSS** to deliver a fast and responsive web application with a streamlined development experience.
 
-![Project Preview](https://aboutteammembers.netlify.app/public/preview.jpg)
+![Project Preview](https://aboutteammembers.netlify.app/preview.jpg)
 
 ---
 
