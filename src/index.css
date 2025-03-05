@@ -9,9 +9,9 @@
 }
 
 body {
-  font-family: 'Livvic', sans-serif;
+  font-family: "Livvic", sans-serif;
   font-weight: 600;
-  background: #014E56;
+  background: #014e56;
   color: #fff;
   overflow-x: hidden;
 }
@@ -108,19 +108,19 @@ p {
   display: none;
 }
 
-.email-input:invalid~.company-name-input {
+.email-input:invalid ~ .company-name-input {
   padding-top: 17px;
 }
 
-.email-input:invalid:placeholder-shown~.company-name-input {
+.email-input:invalid:placeholder-shown ~ .company-name-input {
   padding-top: 24px;
 }
 
-.email-input:invalid~.warning {
+.email-input:invalid ~ .warning {
   display: inline-block;
 }
 
-.email-input:invalid:placeholder-shown~.warning {
+.email-input:invalid:placeholder-shown ~ .warning {
   display: none;
 }
 
@@ -133,15 +133,15 @@ p {
 }
 
 .light-input_sytles:valid {
-  border-color: #79C8C7;
+  border-color: #79c8c7;
 }
 
 .light-input_sytles:invalid {
-  border-color: #F67E7E;
+  border-color: #f67e7e;
 }
 
 .light-input_sytles:placeholder-shown {
-  border-color: #FFF;
+  border-color: #fff;
 }
 
 @keyframes cardAnm {
@@ -161,11 +161,12 @@ p {
 
 .plus-btn_active {
   rotate: -45deg;
-  background: #79C8C7;
+  background: #79c8c7;
 }
 
 .transition-transform-opacity {
-  transition: rotate 150ms linear, transfom 150ms linear, opacity 150ms linear, translate 150ms linear, scale 150ms linear;
+  transition: rotate 150ms linear, transfom 150ms linear, opacity 150ms linear,
+    translate 150ms linear, scale 150ms linear;
 }
 
 .homepage-navbar {
@@ -200,7 +201,7 @@ p {
   transform: translateY(0px) rotate(90deg);
 }
 
-@media only screen and (max-width:940px) {
+@media only screen and (max-width: 940px) {
   .small-h1 {
     line-height: 84px;
   }
@@ -220,7 +221,7 @@ p {
   }
 }
 
-@media only screen and (max-width:800px) {
+@media only screen and (max-width: 800px) {
   .small-h1 {
     line-height: 64px;
   }
@@ -240,8 +241,7 @@ p {
   }
 }
 
-@media only screen and (max-width:730px) {
-
+@media only screen and (max-width: 730px) {
   h1,
   .small-h1 {
     font-size: 64px;
@@ -262,8 +262,7 @@ p {
   }
 }
 
-@media only screen and (max-width:600px) {
-
+@media only screen and (max-width: 600px) {
   h1,
   .small-h1 {
     font-size: 52px;
@@ -275,8 +274,7 @@ p {
   }
 }
 
-@media only screen and (max-width:370px) {
-
+@media only screen and (max-width: 370px) {
   h1,
   .small-h1 {
     font-size: 40px;

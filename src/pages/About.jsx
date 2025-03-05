@@ -1,8 +1,10 @@
-import React from 'react';
-import Hero from '../components/AboutPageHero';
-import DirectorsInfo from '../components/AboutPageDirectorsInfo';
-import ClientsInfo from '../components/AboutPageClientsInfo';
-import Cta from '../components/Cta';
+import React from "react";
+
+// Components
+import Cta from "../components/Cta";
+import Hero from "../components/AboutPageHero";
+import ClientsInfo from "../components/AboutPageClientsInfo";
+import DirectorsInfo from "../components/AboutPageDirectorsInfo";
 
 const About = () => {
   return (
@@ -12,7 +14,7 @@ const About = () => {
       <ClientsInfo />
       <Cta />
     </>
-  )
+  );
 };
 
-export default About
+export default About;
